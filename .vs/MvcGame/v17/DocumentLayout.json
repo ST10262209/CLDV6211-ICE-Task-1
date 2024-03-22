@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cadec\\source\\repos\\MvcGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\models\\gamegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:models\\gamegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\migrations\\20240321132313_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:migrations\\20240321132313_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\data\\mvcgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:data\\mvcgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|c:\\users\\cadec\\source\\repos\\mvcgame\\migrations\\20240321150953_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5944F23-FA93-4334-82BE-F17864F65FDF}|MvcGame.csproj|solutionrelative:migrations\\20240321150953_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240321150953_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Migrations\\20240321150953_Rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240321150953_Rating.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Migrations\\20240321150953_Rating.cs",
+              "RelativeToolTip": "Migrations\\20240321150953_Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:09:53.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:04:51.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Games\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:04:13.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Details.cshtml",
+              "RelativeToolTip": "Views\\Games\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:03:47.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Games\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:02:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "Views\\Games\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T14:59:12.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Models\\GameGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\GameGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Models\\GameGenreViewModel.cs",
+              "RelativeToolTip": "Models\\GameGenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:49:26.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T14:45:49.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "Views\\Games\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T14:43:01.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MvcGameContext.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Data\\MvcGameContext.cs",
+              "RelativeDocumentMoniker": "Data\\MvcGameContext.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Data\\MvcGameContext.cs",
+              "RelativeToolTip": "Data\\MvcGameContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:27:52.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240321132313_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Migrations\\20240321132313_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240321132313_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Migrations\\20240321132313_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240321132313_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:23:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Controllers\\GamesController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAuwJoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:21:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoGame.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Models\\VideoGame.cs",
+              "RelativeDocumentMoniker": "Models\\VideoGame.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Models\\VideoGame.cs",
+              "RelativeToolTip": "Models\\VideoGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:18:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T13:17:09.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T13:10:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T13:06:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T13:05:02.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:53:56.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\cadec\\source\\repos\\MvcGame\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:50:06.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
